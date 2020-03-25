@@ -1,0 +1,7 @@
+Library
+Temp
+obj
+*.csproj
+*.sln
+Assets/GameSparks/Resources/GameSparksSettings.asset*
+Assets/Unity-Logs-Viewer
