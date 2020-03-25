@@ -5,3 +5,4 @@ obj
 *.sln
 Assets/GameSparks/Resources/GameSparksSettings.asset*
 Assets/Unity-Logs-Viewer
+Assets/WSATestCertificate.pfx*
