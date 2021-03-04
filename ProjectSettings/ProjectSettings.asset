@@ -143,7 +143,7 @@ PlayerSettings:
     iOS: com.oadugmore.milesthemagnificentmole
     tvOS: com.oadugmore.milesthemagnificentmole
   buildNumber:
-    iOS: 1
+    iOS: 3
   AndroidBundleVersionCode: 32
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
@@ -211,10 +211,10 @@ PlayerSettings:
   metalEditorSupport: 1
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 1
-  appleDeveloperTeamID: 
+  appleDeveloperTeamID: 24P3DJ5Z4A
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
-  appleEnableAutomaticSigning: 0
+  appleEnableAutomaticSigning: 1
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
@@ -578,7 +578,7 @@ PlayerSettings:
     17: 
     20: 
   platformArchitecture:
-    iOS: 2
+    iOS: 1
   scriptingBackend:
     Android: 1
     Metro: 2
